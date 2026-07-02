@@ -3,4 +3,4 @@
 	url = https://github.com/TheRobotStudio/SO-ARM100
 [submodule "thirdparty/lerobot"]
 	path = thirdparty/lerobot
-	url = https://github.com/huggingface/lerobot
+	url = https://github.com/JoyandAI/lerobot
