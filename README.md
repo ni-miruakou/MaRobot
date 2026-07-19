@@ -6,8 +6,7 @@ gift for han
 
 ## TODO
 
-- [X] ---任务清单---
-- [ ]
+- [ ] 读文献，看文档，跑模型，分析源码
 
 ## Reference
 
