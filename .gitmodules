@@ -4,6 +4,12 @@
 [submodule "lerobot"]
 	path = thirdparty/lerobot
 	url = https://github.com/JoyandAI/lerobot
+[submodule "lerobot_hugging"]
+	path = thirdparty/lerobot_hugging
+	url = https://github.com/huggingface/lerobot
 [submodule "every-embodied"]
 	path = thirdparty/every-embodied
 	url = https://github.com/datawhalechina/every-embodied
+[submodule "thirdparty/lerobot_hugging"]
+	path = thirdparty/lerobot_hugging
+	url = https://github.com/huggingface/lerobot
